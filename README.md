@@ -1,3 +1,4 @@
 # Suraj-gym
 
-<img alt="./preview" >
+>Preview
+><img src="./preview.png" >

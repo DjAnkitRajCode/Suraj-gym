@@ -1,0 +1,107 @@
+*{padding: 0px;
+margin:0px;
+margin-right: 0px;
+   
+}
+.bombom{
+    
+    height: 60px;
+   
+   
+}
+
+
+.longer{height: 100%;
+        }
+
+.backkk{
+   
+    width:100%;
+    height:100%;
+ 
+ 
+    
+}
+.backkk2
+{ 
+    height:100%;
+    width:100%;
+   background-color: white;
+    box-shadow: 3px 3px 3px black;
+}
+.xtopin{
+    
+    float: :left;
+    margin-left:50px;
+   
+}
+.aform{
+    
+    font-weight: 300;
+  float:left;
+    margin-left:60px;
+    overflow-y: hidden;
+    
+}
+
+.bform{text-align: center;
+    float:left;
+    margin-left:140px;
+    font-weight: 100;
+}
+
+.btn {
+  border: 1px  black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+.success {
+  border-color: #4CAF50;
+  color: green;
+}
+
+.success:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.cheetoz{
+    
+    margin-left: 15%;
+}
+.cheetoz2{
+    margin-left: %;
+}
+.bform2{text-align: center;
+    float:left;
+    margin-left:35%;
+    font-weight: 100;
+}
+.supspu{
+   
+ 
+    
+    
+}
+.moveee{
+    margin-left: 5%;
+}
+.email{
+    float: left;
+    margin-left: 21%;
+    padding: 7px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    border:1px solid lawngreen;
+    box-sizing: inherit;
+}
+.loginx
+{float: :left;
+    margin-left: 39%;
+}
+
